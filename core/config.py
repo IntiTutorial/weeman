@@ -10,7 +10,7 @@
 import os
 import sys
 
-__author__ = "Hypsurus <hypsurus@mail.ru>"
+__author__ = "./HEZAL"
 __version__ = "1.7.1"
 __codename__ = "end"
 
